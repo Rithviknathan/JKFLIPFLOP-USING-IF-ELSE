@@ -51,8 +51,11 @@ module EXP7DE(input J, input K, input clk, output reg Q, output reg Qbar);
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 
+<img width="2559" height="1599" alt="Screenshot 2025-10-09 134501" src="https://github.com/user-attachments/assets/727c15f4-a612-42aa-840f-1cd5d2e76195" />
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="2559" height="1599" alt="Screenshot 2025-10-09 135111" src="https://github.com/user-attachments/assets/87a66879-0001-4157-9b87-4d6238dfbbf7" />
 
 **RESULTS**
+
 The implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed successfully
